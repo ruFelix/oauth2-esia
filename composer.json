@@ -30,12 +30,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Ekapusta\\OAuth2Esia\\": "src"
+      "ruFelix\\OAuth2Esia\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Ekapusta\\OAuth2Esia\\Tests\\": "tests"
+      "ruFelix\\OAuth2Esia\\Tests\\": "tests"
     }
   },
   "config": {
